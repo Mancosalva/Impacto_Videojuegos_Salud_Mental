@@ -1,7 +1,7 @@
 
 # Impacto_Videojuegos_Salud_Mental
 
-![Banner](banner.png)
+![Banner](banner.jpg)
 
 ## Autores:
 Dylan Jhoan Velandia Velandia - 2210072, Juan Diego Manosalva Salamanca - 2220059
