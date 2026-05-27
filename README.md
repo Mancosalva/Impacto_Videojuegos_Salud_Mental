@@ -1,5 +1,5 @@
 
-# Impacto_Videojuegos_Salud_Mental
+# Impacton de los Videojuegos en la Salud Mental
 
 ![Banner](Banner.jpg)
 
