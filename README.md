@@ -39,7 +39,7 @@ Analizar el impacto de los videojuegos en la salud mental de los jugadores, iden
 
 ## Enlace del código
 
-[Google Colab](URL_DE_TU_NOTEBOOK_EN_COLAB)
+[Google Colab](Proyecto_Final_IA1.ipynb)
 
 ---
 
