@@ -48,5 +48,5 @@ Analizar el impacto de los videojuegos en la salud mental de los jugadores, iden
 ---
 ## Enlace del video
 
-[YouTube](URL_DE_TU_VIDEO_EN_YOUTUBE)
+[YouTube](https://www.youtube.com/watch?v=VARFCYP7FEo)
 
