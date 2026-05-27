@@ -42,7 +42,11 @@ Analizar el impacto de los videojuegos en la salud mental de los jugadores, iden
 [Google Colab](Proyecto_Final_IA1.ipynb)
 
 ---
+## Diapositivas
 
+[Ver presentación PDF](Impacto%20de%20los%20videojuegos%20en%20la%20salud%20mental.pdf)
+
+---
 ## Enlace del video
 
 [YouTube](URL_DE_TU_VIDEO_EN_YOUTUBE)
