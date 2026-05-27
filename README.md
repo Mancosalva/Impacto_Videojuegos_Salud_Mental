@@ -44,7 +44,7 @@ Analizar el impacto de los videojuegos en la salud mental de los jugadores, iden
 ---
 ## Diapositivas
 
-[Ver presentación PDF](Impacto%20de%20los%20videojuegos%20en%20la%20salud%20mental.pdf)
+[Ver presentación PDF](Impacto de los videojuegos en la salud mental.pdf)
 
 ---
 ## Enlace del video
