@@ -15,7 +15,7 @@ Analizar el impacto de los videojuegos en la salud mental de los jugadores, iden
 
 ## Dataset (Gaming and Mental Health)
 
-[Gaming and Mental Health — Kaggle](URL_DEL_DATASET_EN_KAGGLE)
+[Gaming and Mental Health — Kaggle](https://www.kaggle.com/datasets/shaistashahid/gaming-and-mental-health)
 
 > Dataset con ~1000 individuos. Incluye variables demográficas, patrones de juego, calidad del sueño, estado de ánimo, rendimiento académico/laboral, síntomas de abstinencia, aislamiento social y actividad física.
 
